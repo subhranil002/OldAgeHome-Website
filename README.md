@@ -2,7 +2,7 @@
 ### This is a full-fledged responsive website made on 07/11/2022 for "PCA2 Examination" under the topic of "Social Work" of Maulana Abul Kalam Azad University of Technology, West Bengal
 
 # Team Members
-### [Subhranil Chakraborty](https://github.com/subhranil002) (Group Lead)<br>
+### [Subhranil Chakraborty](https://github.com/subhranil002) (Group Lead)
 ### [Tuhina Kundu](https://github.com/Tuhina123456) (Designer & Content Writer)
 ### [Anish Das](https://github.com/ani0374) (Resourse Collection & FrontEnd Coding)
 ### [Rohit Singh](https://github.com/404) (BackEnd Coding & Documentation)
